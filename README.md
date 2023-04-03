@@ -1,2 +1,2 @@
 # email_spam_verifier
- 
+ An essential implementation of sentiment analysis through machine learning concepts. The model learns the email and creates a 'bag of words', from which the probability of an email to be spam with the presence of that word is calculated. Test emails are checked and if those threat words are found it is labeled as spam. A preliminary website has also been created where users can paste their emails to check whether it is spam or not.
